@@ -22,7 +22,7 @@ Lets you deploy your Punch based sites straight to BitBalloon.
 * Also, you must define `publish` settings in the config.
 
         "publish" : {
-          "strategy" : "sftp",
+          "strategy" : "bitballoon",
           "options" : {
             "access_token": "your-bitballoon-access-token",
             "site_id": "optional id or domain of an existing site to deploy to (ie. my-site.bitballoon.com)"
