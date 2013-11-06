@@ -1,0 +1,26 @@
+{
+  "name": "punch-bitballoon",
+  "version": "0.0.1",
+  "description": "BitBalloon publisher for Punch",
+  "main": "lib/punch-bitballoon.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitBalloon/punch-bitballoon.git"
+  },
+  "keywords": [
+    "Punch",
+    "publisher",
+    "static",
+    "site",
+    "publishing"
+  ],
+  "author": "BitBalloon",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/BitBalloon/punch-bitballoon/issues"
+  },
+  "dependencies": {
+    "bitballoon": ">=0.0.9",
+    "prompt": ">=0.2.11"
+  }
+}
