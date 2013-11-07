@@ -1,6 +1,6 @@
 {
   "name": "punch-bitballoon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "BitBalloon publisher for Punch",
   "main": "lib/punch-bitballoon.js",
   "repository": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/BitBalloon/punch-bitballoon/issues"
   },
   "dependencies": {
-    "bitballoon": ">=0.0.9",
+    "bitballoon": ">=0.1.0",
     "prompt": ">=0.2.11"
   }
 }
